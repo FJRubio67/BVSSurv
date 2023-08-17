@@ -4,7 +4,7 @@ This repository contains information for the short course on Bayesian variable s
 The following links lead to R Markdowns containing the outputs of the R code for the examples presented in slides.
 
 1. [Example 1: simulated data set](https://rpubs.com/FJRubio/BVSSurvExample1).
-2. Example 2: flchain data set.
+2. [Example 2: flchain data set](https://rpubs.com/FJRubio/BVSSurvExample2).
 3. Example 3: colon cancer data set.
 4. Example 4: nki70 data set.
 
