@@ -5,7 +5,7 @@ The following links lead to R Markdowns containing the outputs of the R code for
 
 1. [Example 1: simulated data set](https://rpubs.com/FJRubio/BVSSurvExample1).
 2. [Example 2: flchain data set](https://rpubs.com/FJRubio/BVSSurvExample2).
-3. Example 3: colon cancer data set.
+3. [Example 3: colon cancer data set](https://rpubs.com/FJRubio/BVSSurvExample3).
 4. Example 4: nki70 data set.
 
 
