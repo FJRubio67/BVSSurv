@@ -8,4 +8,6 @@ The following links lead to R Markdowns containing the outputs of the R code for
 3. [Example 3: colon cancer data set](https://rpubs.com/FJRubio/BVSSurvExample3).
 4. [Example 4: nki70 data set](https://rpubs.com/FJRubio/BVSSurvExample4).
 
+See also: [Short course on Parametric Survival Analysis](https://github.com/FJRubio67/ShortCourseParamSurvival)
+
 
